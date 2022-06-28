@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 0.98,
+      "comment": "returned",
+      "date": "2022-06-21T04:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1.59,
+      "comment": "Fresh",
+      "date": "2022-06-06T04:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 0.88,
+      "comment": "Reserved",
+      "date": "2022-06-29T04:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
